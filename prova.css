@@ -1,0 +1,165 @@
+#pagina1 {
+    background-image: url('plano de fundo.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1 {
+    color: aliceblue !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 75vh;
+    font-family: TAN;
+    font-size: 140px !important;
+}
+h3 {
+    color: aliceblue !important;
+    text-align: center !important;
+    position: relative !important;
+    top: -160px;
+    position: relative !important;
+    left: -30px;
+}
+#seta {
+    color: antiquewhite !important;
+    text-align: center !important;
+    position: relative !important;
+    top: -110px;
+    left: -40px;
+    font-size: 25px;
+}
+#es {
+    background-image: url('fundo branco.jpeg');
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
+#nada {
+    color: rgb(0, 0, 0) !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 75vh;
+    font-family: TAN;
+    font-size: 90px !important;
+    position: relative !important;
+    top: -190px;
+}
+#gustavo {
+    position: relative !important;
+    top: -280px;
+    text-align: center !important;
+    font-size: 30px;
+}
+#foto{
+    position: relative !important;
+    width:100% !important;
+    height: auto !important;
+    top: 300px;
+}
+#h5 {
+    color: rgb(0, 88, 165) !important;
+    font-size: 100px !important;
+    position: relative;
+    top: -190px !important;
+}
+#oxi {
+    position: relative;
+    top: 350px !important;
+}
+#oxi2 {
+    position: relative;
+    top: 390px !important;
+}
+#oxi3 {
+    background-image: url('fundo branco.jpeg');
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+}
+#oxi5 {
+    text-align: center !important;
+    font-size: 250% !important;
+}
+#foto5 {
+    width: 200px !important;
+    height: auto !important;
+}
+#foto2 {
+    width: 200px !important;
+    height: auto !important;
+}
+#trabalho {
+    font-size: 250% !important;
+}
+#bergamota {
+    width: 100% !important;
+    height: auto !important;
+}
+#Pokemon {
+    width: 100% !important;
+    height: auto !important;
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+#jj {
+    position: relative;
+    top: 120px;
+}
+#kk {
+    width: 250px !important;
+    height: auto !important;
+}
+#oxi11 {
+    background-image: url('plano de fundo.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#rr {
+    color: rgb(255, 255, 255);
+    font-size: 110px;
+}
+#ee {
+    color: aliceblue;
+    font-size: 30px;
+}
+#yy {
+    color: aliceblue;
+    font-size: 30px;
+    position: relative;
+}
+#tt{
+    position: relative;
+    font-size: 30px;
+}
+#dd {
+    color: aliceblue;
+    font-size: 30px;
+    position: relative;
+}
+#oo {
+    position: relative;
+    font-size: 190%;
+    left: -15%;
+}
+#imh {
+    position: relative;
+    left: 50px;
+}
+#hihi{
+    text-align: center;
+    font-size: 30px;
+}
+#aqui {
+    align-items: center !important;
+}
+.nada {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+body, html {
+    overflow-x: hidden;
+}
